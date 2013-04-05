@@ -1,8 +1,12 @@
-name: Test Plugin
-main: com.redstonefreak589.info.RankDisplay
+name: RankDisplay
+main: com.redstonefreak589.Info.RankDisplay
 version: 1.0
 description: >
              Rank Displayer for SlimCity server. Custom made by Redstonefreak589
 commands:
+  ri:
+    sdescription: Alias of /rank
+  rankinfo:
+    description: Alias of /rank
   rank:
     description: Tells the player what each rank does. Used for the ranks system on slimcraftcity.weebly.com
