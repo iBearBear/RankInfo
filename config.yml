@@ -1,12 +1,12 @@
 # Default Configuration File for RankDisplay
-# Copyright Redstonefreak589 2013 © All Rights reservered 
+# Copyright Redstonefreak589 2013 ï¿½ All Rights reservered 
 # Change the "Name" place to whatever you want your rank name to be
 # Change the "Description" place to whatever you want the 
 # Permissions/Abilities to say
 
 Rank1:
-    Description: defaul
-    Name: default
+    Description: Oh Yeah
+    Name: Awesome
 
 Rank2:
     Description: default
